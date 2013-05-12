@@ -1,0 +1,3 @@
+jotted interface ground rules:
+	technical side:
+		markup is semantical, all the styling and interactivity is done through js and CSS
